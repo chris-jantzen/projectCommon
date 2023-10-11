@@ -1,4 +1,4 @@
 export const test = (num) => {
   console.log("lib");
-  return num * 2;
+  return num * 4;
 };
